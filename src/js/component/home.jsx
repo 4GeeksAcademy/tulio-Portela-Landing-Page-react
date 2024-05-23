@@ -8,8 +8,8 @@ const Home = () => {
   return (
     <div className="container-fluid p-0 m-0 bg-white">
       <Navbar />
-      <div className="row p-3 mt-5 justify-content-center">
-        <Jumbotron className="jumbotron col-12" />
+      <div className="row p-3 mt-1 justify-content-center ">
+        <Jumbotron className="jumbotron col-12 " />
       </div>
       <div className="row p-2 d-flex justify-content-center text-center">
         <div className="col-12 col-md-6 col-lg-3">
